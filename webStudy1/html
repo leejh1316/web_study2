@@ -1,0 +1,15 @@
+<h2>HTML</h2>
+<p><iframe width="560" height="315"
+  src="https://www.youtube.com/embed/7T7r_oSp0SE"
+  title="YouTube video player" frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe></p>
+<p><a href="https://www.w3.org/TR/html52/" target="_blank" title="hhtml5 w3c">Hypertext Markup Language (HTML)</a> is the
+Standard markup language form for
+<strong>creating <u>web</u> pages</strong>
+and web applications. Web borwsers receive HTML documents from a
+web server or from local storage and render them into multimedia web pages.
+HTML describes the structure of a web page semantically and originally
+included cues for the appearance of the document.</p>
+<img src="coding.jpg" width="50%">
+<p style="margin-top:40px;">HTML elements are the building blocks of HTML pages. with HTML constructs, images</p>
