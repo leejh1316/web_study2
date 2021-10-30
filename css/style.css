@@ -231,4 +231,7 @@ body {
   #todo-form input:hover {
     transform: translate(0px, 30px);
   }
+  .input-button {
+    height: auto;
+  }
 }
