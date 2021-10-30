@@ -222,4 +222,16 @@ body {
   .grid-container-item3 {
     font-size: 7pt;
   }
+  .grid-container-item1-box-item-todo-input {
+    top: 5px;
+  }
+  #todo-form input:focus {
+    transform: translate(0px, 0px);
+    outline-style: none;
+    border-color: rgb(244, 248, 252);
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.274);
+  }
+  #todo-form input:hover {
+    background-color: rgba(111, 86, 235, 0.274);
+  }
 }
